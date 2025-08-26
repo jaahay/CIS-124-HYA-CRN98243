@@ -10,6 +10,8 @@ Question 5.2. The study found that of the children who slept with a room light 
 
 Do the data support this statement? Why or why not? You may interpret "strongly" in any reasonable qualitative way. (5 Points)
 
+Yes, the data supports the statement. There is a significant difference relative to the children who slept in the dark before the age or 2: 55% and 34% are both significantly greater than 10%.
+
 Question 5.3. On May 13, 1999, CNN reported the results of this study under the headline, "Night light may lead to nearsightedness." Does the conclusion of the study claim that night light causes nearsightedness? (5 Points)
 
 Type your answer here, replacing this text.
