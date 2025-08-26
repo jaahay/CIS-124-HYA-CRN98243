@@ -1,5 +1,7 @@
 Question 1.1 Do the data in the ad support the claim that burglars are more likely to go to work during the time between Memorial Day to Labor Day? Please explain your answer. (5 points)
 
+No, the data in the ad supports the claim that burleries are more likely to happen over the range between Memorial Day to Labor Day. We can intuit this as the quote states "over 25% of home burglaries occur between Memorial Day to Labor Day". Typically, this range spans 99 days, therefore this range spans 27% of the year ( 99 / 365 ~= 0.271 ). In fact, 25% is _less than_ 27%, suggesting that there are _fewer_ burglaries within this range over the course of a single year.
+
 Question 5.1 The data were gathered by the following procedure, reported in the study. "Between January and June 1998, parents of children aged 2-16 years [...] that were seen as outpatients in a university pediatric ophthalmology clinic completed a questionnaire on the child's light exposure both at present and before the age of 2 years." Was this study observational, or was it a controlled experiment? Explain. (5 Points)
 
 Question 5.2. The study found that of the children who slept with a room light on before the age of 2, 55% were myopic. Of the children who slept with a night light on before the age of 2, 34% were myopic. Of the children who slept in the dark before the age of 2, 10% were myopic. The study concluded the following: "The prevalence of myopia [...] during childhood was strongly associated with ambient light exposure during sleep at night in the first two years after birth."
