@@ -4,6 +4,8 @@ No, the data in the ad supports the claim that burleries are more likely to happ
 
 Question 5.1 The data were gathered by the following procedure, reported in the study. "Between January and June 1998, parents of children aged 2-16 years [...] that were seen as outpatients in a university pediatric ophthalmology clinic completed a questionnaire on the child's light exposure both at present and before the age of 2 years." Was this study observational, or was it a controlled experiment? Explain. (5 Points)
 
+The study was observational. This study was conducted based upon the arbitrary populace of outpatients. The study did not have the methodology necessary to control whom were under examination i.e., the population of children between 2 and 16 that were not part of the sample of outpatients.
+
 Question 5.2. The study found that of the children who slept with a room light on before the age of 2, 55% were myopic. Of the children who slept with a night light on before the age of 2, 34% were myopic. Of the children who slept in the dark before the age of 2, 10% were myopic. The study concluded the following: "The prevalence of myopia [...] during childhood was strongly associated with ambient light exposure during sleep at night in the first two years after birth."
 
 Do the data support this statement? Why or why not? You may interpret "strongly" in any reasonable qualitative way. (5 Points)
