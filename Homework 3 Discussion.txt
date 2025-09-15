@@ -1,0 +1,13 @@
+3. Uber
+Question 6. Identify one difference between the histograms, in terms of the statistical properties. Can you comment on the average and/or skew of each histogram? (5 Points)
+
+Hint: The best way to do this is to compare the two histograms (from 3.1 and 3.2) visually.
+
+These two graphs look like good fits for being considered as bell curves. The middle value for the Uber ride time in Boston is between 10 and 15 and possibly between 15 and 20 as well. For Manila the middle value is between 15 and 20 and possibly between 20 and 25. I can deduce that average times for a Manila Uber ride is approx 5 minutes longer than that for Boston. Furthermore, the histograms show that there are few Boston Uber rides taking more than 40 minutes but a much longer skew in Manila wherein a significant proportion of rides may take up to 80 minutes.
+
+I think there are some solid inferences to be made:
+
+Boston trips are quicker likely due to shorter travel distances and smoother road conditions.
+Manila is geographically larger than Boston so naturally trips would take longer.
+There are not many atypical data points. Both histograms resemble typical bell curves.
+Note: I've had the opportunity to work internationally with co-workers living in the Philippines and in an office in Manila. Several times meetings were cancelled and in fact emergency steps were taken over the severe typhoon weather that tends to occur in the region. I've also spent time in Boston and experienced strong winds and icy winters.
