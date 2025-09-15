@@ -1,0 +1,13 @@
+1. Burrito-ful San Diego
+Question 3. Looking at the scatter plot you just made in Question 1.2, do you notice any pattern(s) (i.e. is one of the two types of scores consistently higher than the other one)? If so, describe them briefly below. (5 Points)
+
+Google scores tend to be higher than Yelp scores.
+
+2. San Francisco City Employee Salaries
+Question 2. At the moment, the Job column of the sf table is not sorted (no particular order). Would the arrays you generated in the Jobs column of the previous question be the same if we had sorted alphabetically instead before generating them? Explain your answer. To receive full credit, your answer should reference how the .group method works, and how sorting the Jobs column would affect this. (5 Points)
+
+Per Python's inequality implementation, the sorted and unsorted arrays within the Jobs column would not be equal. group iterates in-order thru elements from the specified column. Arrays with distinct elements at the same indices are inequal. There are many such elements in the Jobs column that would not "naturally" come sorted alphabetically.
+
+Question 4. Give an explanation as to why some of the row values are 0 in the department_ranges table from the previous question. (5 Points)
+
+I looked this up @ https://data.sfgov.org/City-Management-and-Ethics/Employee-Compensation/88g8-5mnd/about_data. An organization group is a "high-level grouping of City departments based on general purpose". It stands to reason that not every department would be represented in all organization groups. In other words, those 0 values are stubs where there are no employees / there is no compensation data present for that department and for that organization group.
