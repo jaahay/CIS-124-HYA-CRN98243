@@ -3,4 +3,5 @@ datascience
 numpy
 matplotlib
 
+pre-commit
 nb-clean
