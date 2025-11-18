@@ -2,6 +2,7 @@ otter_grader
 datascience
 numpy
 matplotlib
+IPython
 
 pre-commit
 nb-clean

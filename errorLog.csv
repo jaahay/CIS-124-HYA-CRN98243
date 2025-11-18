@@ -1,0 +1,9 @@
+0,TypeError,cannot unpack non-iterable NoneType object,0,,2025-11-11 21:41:25.169802
+1,TypeError,cannot unpack non-iterable NoneType object,0,,2025-11-11 21:41:50.947682
+2,TypeError,object of type 'float' has no len(),0,,2025-11-11 21:51:50.687277
+3,AttributeError,'NoneType' object has no attribute 'item',0,,2025-11-18 21:53:38.946169
+4,AttributeError,'NoneType' object has no attribute 'item',0,,2025-11-18 13:59:00.714520
+5,AttributeError,'NoneType' object has no attribute 'item',0,,2025-11-18 14:00:10.281710
+6,AttributeError,'numpy.ndarray' object has no attribute 'column',0,,2025-11-18 14:58:31.299927
+7,AttributeError,'numpy.ndarray' object has no attribute 'column',0,,2025-11-18 14:58:53.112497
+8,AttributeError,'numpy.ndarray' object has no attribute 'num_rows',0,,2025-11-18 14:59:22.837965
