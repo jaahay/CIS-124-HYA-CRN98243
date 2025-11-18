@@ -7,3 +7,25 @@
 6,AttributeError,'numpy.ndarray' object has no attribute 'column',0,,2025-11-18 14:58:31.299927
 7,AttributeError,'numpy.ndarray' object has no attribute 'column',0,,2025-11-18 14:58:53.112497
 8,AttributeError,'numpy.ndarray' object has no attribute 'num_rows',0,,2025-11-18 14:59:22.837965
+9,FileNotFoundError,[Errno 2] No such file or directory: 'coordinates.csv',0,,2025-11-18 15:12:42.496368
+10,AttributeError,'ellipsis' object has no attribute 'num_rows',0,,2025-11-18 15:14:22.454559
+11,NameError,name 'random' is not defined,0,,2025-11-18 15:16:46.435317
+12,TypeError,shuffle() got an unexpected keyword argument 'with_replacement',0,,2025-11-18 15:17:06.366403
+13,ValueError,"The column label must be a string, but a int was given",0,,2025-11-18 15:18:15.697713
+14,AttributeError,module 'numpy' has no attribute 'sample',0,,2025-11-18 15:18:24.106611
+15,ValueError,"The column label must be a string, but a int was given",0,,2025-11-18 15:18:33.856227
+16,ValueError,"The column label must be a string, but a int was given",0,,2025-11-18 15:19:09.226924
+17,TypeError,Cannot cast array data from dtype('float64') to dtype('int64') according to the rule 'same_kind',0,,2025-11-18 15:19:51.357674
+18,TypeError,Table.shuffle() got an unexpected keyword argument 'replace',0,,2025-11-18 15:20:47.969872
+19,TypeError,Table.shuffle() got an unexpected keyword argument 'with_replace',0,,2025-11-18 15:20:57.570920
+20,TypeError,Cannot cast array data from dtype('float64') to dtype('int64') according to the rule 'same_kind',0,,2025-11-18 15:21:24.028324
+21,SyntaxError,"invalid syntax (1014179190.py, line 2)",0,,2025-11-18 15:22:11.248834
+22,SyntaxError,"invalid syntax (1715344070.py, line 2)",0,,2025-11-18 15:23:15.380125
+23,SyntaxError,"invalid syntax (3287592885.py, line 2)",0,,2025-11-18 15:23:35.435871
+24,SyntaxError,"invalid syntax (4216867794.py, line 2)",0,,2025-11-18 15:23:46.290669
+25,SyntaxError,"invalid syntax (404516012.py, line 2)",0,,2025-11-18 15:23:55.596533
+26,SyntaxError,"invalid syntax (4086189889.py, line 3)",0,,2025-11-18 15:25:42.440591
+27,ValueError,"slice(None, 50.0, None) is not a label or index",0,,2025-11-18 15:25:55.423588
+28,ValueError,"slice(None, 50.0, None) is not a label or index",0,,2025-11-18 15:26:38.290386
+29,TypeError,Cannot cast array data from dtype('float64') to dtype('int64') according to the rule 'same_kind',0,,2025-11-18 15:28:11.175779
+30,SyntaxError,"'(' was never closed (4008331197.py, line 3)",0,,2025-11-18 15:29:55.988644
