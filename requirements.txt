@@ -2,6 +2,7 @@ otter_grader
 datascience
 numpy
 matplotlib
+pandas
 IPython
 
 pre-commit
